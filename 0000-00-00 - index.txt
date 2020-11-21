@@ -11,6 +11,7 @@ mm/dd/yyyy | hh:mm:ss | x → transcript | video title
 12/19/2000 | 00:00:00 | bit.ly/2ITxNLo | Filmography
 07/00/2001 | 00:04:29 | bit.ly/38Wicpv | Born in South Dakota
 07/00/2001 | 00:11:27 | bit.ly/3ffTRfn | Monkey Man 2k+1
+07/00/2001 | 00:01:12 | bit.ly/338eo0v | Horsey Sauce
 07/11/2001 | 00:16:48 | bit.ly/3kNszhB | Jason Santo's Transients
 07/15/2001 | 00:05:56 | bit.ly/3lOFFwm | Torgo and the Quest for Fuck
 00/00/2002 | 00:15:40 | bit.ly/2Kkxr0Z | Where's Deathlist?
