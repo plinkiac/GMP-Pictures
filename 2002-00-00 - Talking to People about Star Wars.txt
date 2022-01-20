@@ -11,8 +11,6 @@ Tell me about Star Wars, Rich.
 RICH:
 Oh, where to begin?
 
-["A long, long time ago"]
-
 JOHN:
 Action? You don't say action where you're asking people about Star Wars.
 
@@ -22,27 +20,11 @@ Yes, you do.
 JOHN:
 Oh.
 
-["Naboo was under an attack"]
-
-["And I thought me and Qui-Gon Jinn"]
-
 JAY:
 I can't think of anything clever to say, because I'm tired.
 
-["...into maybe cutting them a little slack"]
-
 JOHN:
 And, at such a per-, oh, are you feeding me my lines now?
-
-["But their response, it didn't thrill us"]
-
-["They locked the doors and tried to kill us"]
-
-["We escaped from that gas"]
-
-["Then met Jar Jar and Boss Nass"]
-
-["We took a bongo from the scene"]
 
 GARRETT:
 Uh, this is an interview about Star Wars. What is Star Wars?
